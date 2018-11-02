@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    leaf (0.0.1)
+    leaf (0.0.2)
 
 GEM
   remote: https://rubygems.org/
@@ -32,7 +32,7 @@ PLATFORMS
 DEPENDENCIES
   leaf!
   pry
-  rspec (~> 3.5)
+  rspec (~> 3.6)
 
 BUNDLED WITH
    1.16.1
