@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    leaf (0.0.1)
+    leaf (0.0.2)
 
 GEM
   remote: https://rubygems.org/
